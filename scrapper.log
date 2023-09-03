@@ -1,0 +1,18 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.57:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsung', 'Name': 'Rahul Mandal', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Nice TV in this price'}, {'Product': 'samsung', 'Name': 'Sudhaditta Mitra', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Absolutely value for money.'}, {'Product': 'samsung', 'Name': 'tanmoy roy', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Good👍'}, {'Product': 'samsung', 'Name': 'Samir Khata', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good HD picture quality  of this TV and timely delivery and installation is very systematic process. Thanks for Flipkart & Samsung team related this item.'}, {'Product': 'samsung', 'Name': 'kesavaraman', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Good product from samsung'}, {'Product': 'samsung', 'Name': 'Swaroop', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Most valuable and Worth Tv 1.video - superb2.sound - Amplifier sound superb'}, {'Product': 'samsung', 'Name': 'Soumen Gope', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good quality at this price. Picture quality is very good. Sound quality is also very good.'}, {'Product': 'samsung', 'Name': 'Prakriti Srivastava', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': "Bahut accha tv hai aur installation bhi kafi accha kiye hai bhaiya bahut hi acchA nature hai thnkuu bhaiya and Samsung company i'm very happy"}, {'Product': 'samsung', 'Name': 'Velu P', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'I m using this tv for the past 10 days..I found that the following Image quality is good,Sound quality is good,Connectivity is good, Overall the product is good to use...Samsung is better than Mi, Redmi and Vu TVs Go for it....'}, {'Product': 'samsung', 'Name': 'M D Zubair ', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Nice product'}, {'Product': 'samsung', 'Name': 'M D Zubair ', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice product'}]
+INFO:werkzeug:172.18.0.2 - - [03/Sep/2023 12:55:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [03/Sep/2023 12:55:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [03/Sep/2023 12:55:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.57:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
